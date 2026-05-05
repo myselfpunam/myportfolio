@@ -1,0 +1,16 @@
+Collecting django-ckeditor
+  Using cached django_ckeditor-6.7.3-py3-none-any.whl.metadata (33 kB)
+Requirement already satisfied: Django>=3.2 in C:\Users\mysel\Downloads\portfolio_project\venv\Lib\site-packages (from django-ckeditor) (4.2.30)
+Collecting django-js-asset>=2.0 (from django-ckeditor)
+  Using cached django_js_asset-3.1.2-py3-none-any.whl.metadata (6.4 kB)
+Requirement already satisfied: asgiref<4,>=3.6.0 in C:\Users\mysel\Downloads\portfolio_project\venv\Lib\site-packages (from Django>=3.2->django-ckeditor) (3.11.1)
+Requirement already satisfied: sqlparse>=0.3.1 in C:\Users\mysel\Downloads\portfolio_project\venv\Lib\site-packages (from Django>=3.2->django-ckeditor) (0.5.5)
+Requirement already satisfied: tzdata in C:\Users\mysel\Downloads\portfolio_project\venv\Lib\site-packages (from Django>=3.2->django-ckeditor) (2026.2)
+Using cached django_ckeditor-6.7.3-py3-none-any.whl (2.5 MB)
+Using cached django_js_asset-3.1.2-py3-none-any.whl (5.9 kB)
+Installing collected packages: django-js-asset, django-ckeditor
+
+Successfully installed django-ckeditor-6.7.3 django-js-asset-3.1.2
+
+[notice] A new release of pip is available: 26.0.1 -> 26.1.1
+[notice] To update, run: python.exe -m pip install --upgrade pip
