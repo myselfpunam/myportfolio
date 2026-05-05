@@ -24,12 +24,7 @@ Every section — profile, skills, experience, education, projects, resume, and 
 
 ## Live Preview
 
-> Add a screenshot or GIF of your portfolio here once deployed.
-
-```
-Homepage  → http://127.0.0.1:8000/
-Admin     → http://127.0.0.1:8000/admin/
-```
+http://www.punambhuyan.com/
 
 ---
 
